@@ -1,5 +1,23 @@
 # thyself
 
+This is a follow up tutorial to learn about using vuetify. Topics covered in this project are: 
+
+    * Adding vuetify
+    * Container
+    * Lists
+    * Flexbox
+    * Columns
+    * Dialog Box
+    * Tooltip
+    * Snackbar
+    * Form & Validation
+    * Buttons
+    * Navigation Drawer
+    * Cards
+    * Image
+    * Others
+
+
 ## Project setup
 ```
 npm install
@@ -25,5 +43,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+####Thanks goes to `The Net Ninja` for making a simple tutorial about using vuetify.
+See [Original Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5).
+
